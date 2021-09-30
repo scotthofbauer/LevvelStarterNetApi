@@ -12,9 +12,9 @@ Your task is to add a commenting feature.
 
 You should add two new endpoints.
 
-1) Post at /blog/post/{1}/comment - which should create a new comment for a post with passed {id}
+1) Post at api/blog{1}/comment - which should create a new comment for a post with passed {id}
 
-2) Get at /blog/post/{1}/comment - which should return all comments for a post with passed {id}
+2) Get at /blog{1}/comment - which should return all comments for a post with passed {id}
 Write acceptable test coverage for the the new endpoints.
 
 Under the resources folder are example json files for both a Blog and a Comment.
