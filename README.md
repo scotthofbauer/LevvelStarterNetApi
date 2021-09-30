@@ -1,5 +1,5 @@
 Create a simple REST application for serving a blog.
-It uses Spring Framework, Java 11, Lombok and a Mongo database.
+It uses .Net Core 5.0 and a Mongo database.
 
 Currently the application has 2 endpoints:
 
